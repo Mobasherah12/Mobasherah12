@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-- 🔭 I’m currently working on [Eccentric Touch](https://github.com/DesignSystemsOSS/eccentrictouch)
+- 🔭 I’m currently working on [HITK Tech Community](https://github.com/HITK-TECH-Community)
 
 - 🌱 I’m currently learning **React, Flutter, Kubernetes and Tensorflow**
 
